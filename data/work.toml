@@ -1,0 +1,10 @@
+# Section title
+title = "Work"
+
+[[projects]]
+    name = "Protection wear"
+    folder = "project-1"
+
+[[projects]]
+    name = "Couple's Traditional Cloth"
+    folder = "project-2"
